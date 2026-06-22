@@ -1,0 +1,11 @@
+﻿{
+    "version":  "0.1.0",
+    "notes":  "Meyzaar RP Launcher 0.1.0",
+    "pub_date":  "2026-06-22T21:45:52Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkxudkFhR0dreGtDcit3OTdFMnFMMDgxR0FkU2hKamMvaXkyeWFFcWtaTWVRUFBSNXVmM214bTduWkhoZ25vaDZlUlRSNDR0Q2d1eFcwa2tNR0IyUXhzNjF4M0ZVMlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTY0NzUyCWZpbGU6TWV5emFhciBSUCBMYXVuY2hlcl8wLjEuMF94NjQtc2V0dXAuZXhlCkFSYlcySEt4dDVsVHZKYmwvemlrTWRnaFNTRXFOaDhIQzIvTUR4azlzVTZlTytqQmU4L1pnVXc1bjA5aDhIaDhZdnNBNldsKzRIVkkwbnN2ZDlEc0JBPT0K",
+                                             "url":  "https://github.com/meyzaar-rp/launcher/releases/latest/download/Meyzaar.RP.Launcher_0.1.0_x64-setup.exe"
+                                         }
+                  }
+}
